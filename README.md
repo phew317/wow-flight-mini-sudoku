@@ -48,7 +48,7 @@ Make sure to download the version matching your WoW client.
 Separate downloads are provided for:
 
 - **World of Warcraft Burning Crusade Classic**
-- **World of Warcraft Forever **
+- **World of Warcraft Forever**
 
 Each version has its own interface compatibility settings and API adjustments.
 
