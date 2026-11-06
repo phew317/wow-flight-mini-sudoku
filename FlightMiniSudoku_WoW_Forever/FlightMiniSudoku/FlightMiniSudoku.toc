@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Flight Mini Sudoku
+## Notes: A compact 6x6 Sudoku for WoW Forever.
+## Author: skippzy
+## Version: 2.9.5-Forever
+## License: MIT
+## SavedVariables: FlightMiniSudokuDB
+
+FlightMiniSudoku.lua
