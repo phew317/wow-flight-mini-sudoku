@@ -1,9 +1,0 @@
-## Interface: 20506
-## Title: Flight Mini Sudoku
-## Notes: Ein 6x6-Sudoku für Flugmeister-Pausen in WoW TBC Classic.
-## Author: skippzy
-## Version: 2.9.0
-## License: MIT
-## SavedVariables: FlightMiniSudokuDB
-
-FlightMiniSudoku.lua
