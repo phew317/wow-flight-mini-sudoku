@@ -1,0 +1,9 @@
+## Interface: 20506
+## Title: Flight Mini Sudoku
+## Notes: A themed 6x6 Sudoku for WoW TBC Classic with Classic, Modern, Alliance and Horde UI styles.
+## Author: skippzy
+## Version: 3.0.0-Anniversary
+## License: MIT
+## SavedVariables: FlightMiniSudokuDB
+
+FlightMiniSudoku.lua
